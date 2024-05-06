@@ -1,0 +1,6 @@
+jupyter_notebook (1)
+.vscode
+*.xml
+.idea/workspace.xml
+.gitattributes
+.idea/GTMMRL.iml
